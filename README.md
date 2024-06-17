@@ -54,6 +54,8 @@ See Issues.
 
 + [**Specifications**](https://github.com/immersive-audio-live/ADM-OSC/blob/main/Source/ADM-OSC%20Specification.xlsx)
 
++ [**Chataigne module**](https://github.com/madees/ADM-OSC-Chataigne-Module) (Mathieu Delquignies / d&b audiotechnik)
+  + to retreive parameters or control ADM-OSC object based audio (OBA) software or hardware with OSC protocol.
 
 + Tester **Desktop application** (Jose Gaudin / Meyer Sound)
   + [download from resources directory](https://github.com/immersive-audio-live/ADM-OSC/tree/main/Resources)
@@ -141,7 +143,7 @@ See Issues.
   + [Source directory](https://github.com/immersive-audio-live/ADM-OSC/tree/main/Source)
 
 ## Currently supported in:
-SPAT Revolution (FLUX::SE), L-ISA Controller (L-Acoustics), Ovation (Merging Technologies), Nuendo (Steinberg), SpaceMap Go (Meyer Sound), QLAB 5 (Figure 53), Space Controller (Sound Particles), Modulo Kinetic (Modulo Pi), Iosono (Barco).
+SPAT Revolution (FLUX::SE), L-ISA Controller (L-Acoustics), Ovation (Merging Technologies), Nuendo (Steinberg), SpaceMap Go (Meyer Sound), QLAB 5 (Figure 53), Space Controller (Sound Particles), Modulo Kinetic (Modulo Pi), Iosono (Barco), En-Bridge (d&b audiotechnik).
 
 
 
